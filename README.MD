@@ -128,10 +128,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 4. Push sur la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
-## 📜 License
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ## ⚠️ Avertissement
 
 Ce bot est conçu pour le divertissement. Assurez-vous que tous les membres de votre serveur sont d'accord avec le concept avant de l'utiliser.
