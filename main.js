@@ -147,7 +147,7 @@ client.on('interactionCreate', async interaction => {
         // Commande /settime : modifie la durée du timeout
         case 'settime':
             // Vérifie si l'utilisateur a les permissions nécessaires
-            if (!interaction.member.permissions.has('MODERATE_MEMBERS')) {
+            if (!interaction.member.permissions.has('ModerateMembers')) {
                 await interaction.reply({
                     content: '❌ Tu n\'as pas la permission de modifier la durée du timeout.',
                     ephemeral: true
